@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, ReactJS, NodeJS, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [ziaadwael.github.io/portofolio/](ziaadwael.github.io/portofolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/ziaadwael/](https://github.com/ziaadwael/)
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, ReactJS**
 

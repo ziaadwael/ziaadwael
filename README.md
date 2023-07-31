@@ -12,7 +12,9 @@
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziad-wael">LinkedIn</a>
+<a href="https://">Facebook</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

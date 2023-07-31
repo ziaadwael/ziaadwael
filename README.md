@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ziad Wael</h1>
-<h3 align="center">A Junior frontend developer from Egypt</h3>
+<h3 align="center">Junior frontend developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Bootstrap, ReactJS, NodeJS, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [www.ziaadwael.github.io/portofolio/](www.ziaadwael.github.io/portofolio/)
+- 👨‍💻 All of my projects are available at [ziaadwael.github.io/portofolio/](ziaadwael.github.io/portofolio/)
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, ReactJS**
 

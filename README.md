@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ziad-wael" style="block">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ziad-wael/">LinkedIn</a>
+  <br>
 <a href="https://facebook.com/ziaadwael/">Facebook</a>
 </p>
 

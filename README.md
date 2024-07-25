@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Wael</h1>
-<h3 align="center">Junior frontend developer from Egypt</h3>
+<h3 align="center">Frontend developer from Egypt,Giza</h3>
 
-- 🌱 I’m currently learning **Bootstrap, ReactJS, NodeJS, ExpressJS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ziaadwael/](https://github.com/ziaadwael?tab=repositories))
 
